@@ -6,7 +6,7 @@ Website:
 */
 body 
 {
-    background-color:lightGreen;
+    background-color:#d8fccf;
     color: black;
     font-family: 'Lato', sans-serif;
     /*font-family: 'Open Sans', sans-serif;*/
@@ -60,7 +60,7 @@ p { line-height: 22px }
     margin-right: 0;
     z-index: 199;
 }
-.head-section .navbar-default { background-color: lightGreen; }
+.head-section .navbar-default { background-color: #d8fccf; }
 .head-section .nav li a,
 .head-section .nav li.active ul.dropdown-menu li a {
     color: #999;
